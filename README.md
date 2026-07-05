@@ -70,7 +70,7 @@ This section is particularly powerful and includes:
 2. **Place the GSC File**  
    - Open **FileZilla** and connect to your PS4.  
    - Navigate to `/data/667injector/bo3injector/`  
-   - Place your mod menu file in this folder and **rename it to `667mp.gscc`**
+   - Place your mod menu file in this folder
 
 3. **Inject the Menu**  
    - Launch **Black Ops 3**.  
@@ -79,6 +79,9 @@ This section is particularly powerful and includes:
 
 4. **Start Playing**  
    Go into **Multiplayer** and enjoy the menu.
+
+5. **How to Change mod menu auto injected ?**
+`/data/667injector/bo3injector/667settings/667s.ini` in this ini file, you can see mainload="zm" so if you want to auto inject multiplayer mod menu when you start the game modify this line : mainload="mp" and save, after this restart the game and now multiplayer mod menu is now auto injected !
 
 ### Tips
 - Make sure the injector is running properly before launching the game.
