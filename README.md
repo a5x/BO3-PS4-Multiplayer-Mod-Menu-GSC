@@ -1,3 +1,4 @@
+
 # Black Ops 3 Multiplayer PS4 GSC Mod Menu
 
 **Revolution Reborn**
@@ -47,6 +48,8 @@ This section is particularly powerful and includes:
 - **Black market contracts**
 - Arena stats
 ---
+
+<img width="1920" height="1080" alt="Call of Duty®_ Black Ops III_20260704032924" src="https://github.com/user-attachments/assets/0c3d525b-2851-468b-b99e-f6144ad44776" />
 
 > **Note**: The mod menu is still under active development. Feel free to suggest new features!  
 > Interesting and well-thought suggestions will be added, and you will be credited directly in the menu.
