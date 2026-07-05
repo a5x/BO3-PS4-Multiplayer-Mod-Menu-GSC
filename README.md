@@ -6,6 +6,7 @@
 Welcome to **Revolution Reborn** — a nostalgic Black Ops 3 Multiplayer mod menu for PS4.
 
 **Revolution Reborn [Zombies Version](https://github.com/a5x/BO3-PS4-Zombies-Mod-Menu-GSC/releases)**
+**Revolution Reborn [Campaign Version](https://github.com/a5x/BO3-PS4-Campaign-Mod-Menu-GSC/releases)**
 
 ## About the Project
 
