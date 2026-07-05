@@ -54,7 +54,10 @@ This section is particularly powerful and includes:
 > **Note**: The mod menu is still under active development. Feel free to suggest new features!  
 > Interesting and well-thought suggestions will be added, and you will be credited directly in the menu.
 
-## Installation & Usage
+## Installation & Requirements
+
+ - **Need Jailbroken/Devkit/Testkit console**
+ - **GoldHEN (minimum an 2026 update)**
 
 ### Installation Steps
 
